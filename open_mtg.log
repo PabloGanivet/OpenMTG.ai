@@ -1,0 +1,26 @@
+2023-07-12 11:22:28,111  [INFO ]   
+2023-07-12 11:22:28,112  [INFO ]  Starting Open MTG. Playing 10 games
+2023-07-12 11:22:31,712  [INFO ]  --->Player Gold P1 won 4 out of 10
+2023-07-12 11:22:31,716  [INFO ]  [ 0.4 , 10 , 16.166666666666668 , 17.0 , 29.2 , 16.833333333333332 , 14.0 ]
+2023-07-12 11:23:05,524  [INFO ]   
+2023-07-12 11:23:05,525  [INFO ]  Starting Open MTG. Playing 1 games
+2023-07-12 11:23:05,996  [ERROR]  Unexpected exception
+Traceback (most recent call last):
+  File "main2.py", line 263, in <module>
+    start_games(number)
+  File "main2.py", line 223, in start_games
+    mean_turns1=mean_turns1/player_a_wins
+ZeroDivisionError: division by zero
+2023-07-12 11:23:30,494  [INFO ]   
+2023-07-12 11:23:30,498  [INFO ]  Starting Open MTG. Playing 2 games
+2023-07-12 11:23:30,983  [ERROR]  Unexpected exception
+Traceback (most recent call last):
+  File "main2.py", line 263, in <module>
+    start_games(number)
+  File "main2.py", line 223, in start_games
+    mean_turns1=mean_turns1/player_a_wins
+ZeroDivisionError: division by zero
+2023-07-12 11:23:49,295  [INFO ]   
+2023-07-12 11:23:49,298  [INFO ]  Starting Open MTG. Playing 10 games
+2023-07-12 11:23:51,448  [INFO ]  --->Player Gold P1 won 7 out of 10
+2023-07-12 11:23:51,449  [INFO ]  [ 0.7 , 10 , 12.666666666666666 , 18.0 , 26.8 , 20.0 , 12.571428571428571 ]
