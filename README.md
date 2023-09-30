@@ -1,6 +1,6 @@
 
 # OpenMTG
-![OpenMTG logo]([https://github.com/hlynurd/open-mtg/blob/master/logo.png](https://github.com/PabloGanivet/OpenMTG.ai/blob/main/Logo.jpg)) 
+![OpenMTG logo]([https://github.com/PabloGanivet/OpenMTG.ai/blob/main/Logo.jpg]) 
 
 An experimental framework for writing, testing and evaluating agents for the card game Magic: The Gathering.
 
